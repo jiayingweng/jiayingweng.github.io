@@ -1,0 +1,71 @@
+---
+title: ""
+format:
+  html:
+    toc: true
+    toc-location: right
+    html-math-method: katex
+    css: styles.css
+---
+
+![](Headshot-Jiaying%20Weng-2s.jpg)
+
+I am an Assistant Professor of [Mathematical Sciences at Bentley University](https://faculty.bentley.edu/profile/jweng). Prior to joining Bentley, I received my Ph.D. in Statistics from the University of Kentucky under the supervision of Dr. Xiangrong Yin.
+
+
+# Research
+My primary research interests encompass sufficient dimension reduction, variable selection, and high-dimensional data analysis. Sufficient dimension reduction is a statistical technique that aims to find a low-dimensional representation of the predictor variables while preserving the information about the response variable. 
+
+## Publications 
+1. Huang, K., **Weng, J.**, Wang, C., Li, M. (2024), 
+[A new online learning algorithm for streaming data and decision support with a Bayesian approach](https://doi.org/10.1080/00949655.2024.2340581), *Journal of Statistical Computation and Simulation*. 
+
+1. **Weng, J.**, Ke, C., Wang, P. (2024), [Sparse Fréchet sufficient dimension reduction via nonconvex optimization](https://proceedings.mlr.press/v234/weng24a.html), Conference on Parsimony and Learning, *Proceedings of Machine Learning Research*, 234:39-53, 2024.
+
+1. **Weng, J.** and Yin, X. (2022), [A minimum discrepancy approach with Fourier transform in sufficient dimension reduction](https://www3.stat.sinica.edu.tw/statistica/j32n31/J32n3105/J32n3105.html), *Statistic Sinica*, 32(Online Special Issue II):2381--2403, 2022. 
+
+1. **Weng, J.** (2022), [Fourier transform sparse inverse regression estimators for sufficient variable selection](https://doi.org/10.1016/j.csda.2021.107380), *Computational Statistics and Data Analysis*, 168(107380), 2022. 
+
+1. Peecher, J.S., Schecter, A.J., Lu, H., Quynh, H.T., Stromberg, A., **Weng, J.**, Crandall, R., Birnbaum, L.S. (2022), [Biomonitoring of polybrominated dioxins \& furans, polychlorinated dioxins \& furans, and dioxin like polychlorinated biphenyls in Vietnamese female electronic waste recyclers](https://journals.lww.com/joem/Abstract/9000/Biomonitoring_of_Polybrominated_Dioxins___Furans,.97648.aspx), *Journal of Occupational and Environmental Medicine*, 64(9):742--747, 2022. 
+
+1. Gutierrez, A.M., Bhandari, R., **Weng, J.**, Stromberg, A., Dziubla, T.D., and Hilt, J.Z. (2020), [Synthesis of magnetic nanocomposite microparticles for binding of chlorinated organics in contaminated water sources](http://dx.doi.org/10.1002/app.49109), *Journal of Applied Polymer Science*, 137:e49109, 2020.
+
+
+1. Jackson, E.N., Thatcher, S.E., Larian, N., English, V., Soman, S., Morris, A.J., **Weng, J.**, Stromberg, A.J., Swanson, H.I., Pearson, K., Cassis, L.A. (2019),  [Effects of aryl hydrocarbon receptor deficiency on PCB-77-induced impairment of glucose homeostasis during weight loss in male and female obese mice](https://ehp.niehs.nih.gov/doi/10.1289/EHP4133), *Environmental Health Perspectives*, 127(7):077004, 2019. 
+
+1. Ahmad, I., **Weng, J.**, Stromberg, A., Hilt, J.Z. and Dziubla T.D. (2019), [Fluorescence based detection of polychlorinated biphenyls (PCBs) in water using hydrophobic interactions](https://pubs.rsc.org/en/content/articlelanding/2019/an/c8an00867a/unauth#!divAbstract), *Analyst*, 144(2):677-684, 2019.
+
+1. Gutierrez, A.M., Bhandari, R., **Weng, J.**, Stromberg, A., Dziubla, T.D., and Hilt, J.Z. (2019),  [Novel magnetic core-shell nanoparticles for the removal of polychlorinated biphenyls from contaminated water sources](https://www.sciencedirect.com/science/article/pii/S0254058418309271), *Materials Chemistry and Physics*, 223:68-74, 2019.
+
+1. **Weng, J.** and Yin, X. (2018),  [Fourier transform approach for inverse dimension reduction method](https://www.tandfonline.com/doi/abs/10.1080/10485252.2018.1515432?journalCode=gnst20), *Journal of Nonparametric Statistics*, 30(4):1049-1071, 2018.
+
+1. **Weng, J.** and Young, D. (2017),  [Some dimension reduction strategies for the analysis of survey data](https://link.springer.com/article/10.1186/s40537-017-0103-6), *Journal of Big Data*, 4(1):1-19, 2017.
+
+# Teaching
+
+* MA 610: Optimization and Simulation for Business Decisions, Bentley.
+    + 2024 fall, 2 sections
+    + 2024 spring, 2 section, 34 students
+    + 2023 fall, 2 sections, 31 students
+
+* ST 635: Intermediate Statistical Modeling for Business, Bentley.
+    + 2023 spring, 2 sections, 35 students
+    + 2022 fall, 2 sections, 47 students
+    + 2022 spring, 2 sections, 64 students
+    + 2021 fall, 2 sections, 32 students
+
+* ST 625: Quantitative Analysis for Business, Bentley.
+    + 2021 spring, 2 sections, 37 students
+    + 2020 fall, 2 sections, 60 students
+
+* GR 521: Managerial Statistics, Bentley.
+    + 2024 spring, 1 section, 22 students
+    + 2020 spring, 2 sections, 49 students
+    + 2019 fall, 2 sections, 48 students
+
+* MA 380: Generalized Linear Models and Survival Analysis, Bentley.
+    + 2021 spring, 1 section, 4 students
+
+# Members
+
+* Newsletter editor of [BCASA](https://community.amstat.org/bostonchapter/newsletter)

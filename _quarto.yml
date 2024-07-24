@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jiaying Weng"
+  
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Talks
+
+  page-footer: 
+    right: "Copyright 2024, Jiaying Weng" 
+    center: 
+      - icon: github
+        href: https://github.com/jiayingweng  
+      - icon: "google scholar"
+        href: https://scholar.google.com/citations?user=wh88n8UAAAAJ&hl=en
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
