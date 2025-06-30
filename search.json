@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Research",
+    "section": "",
+    "text": "I am an Associate Professor of Mathematical Sciences at Bentley University. Prior to joining Bentley, I received my Ph.D. in Statistics from the University of Kentucky under the supervision of Dr. Xiangrong Yin."
+  },
+  {
+    "objectID": "home.html#publications",
+    "href": "home.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nWeng, J., Tan, K., Wang, C., Yu, Z. (2025) , Sparse Fr'{e}chet sufficient dimension reduction with graphical structure among predictors, Scandinavian Journal of Statistics.\nWang, P., Lu, J., Weng, J., Mitra, S. (2024), Conditional sufficient variable selection with prior information, Computational Statistics.\nHuang, K., Weng, J., Wang, C., Li, M. (2024), A new online learning algorithm for streaming data and decision support with a Bayesian approach, Journal of Statistical Computation and Simulation.\nWeng, J., Ke, C., Wang, P. (2024), Sparse Fréchet sufficient dimension reduction via nonconvex optimization, Conference on Parsimony and Learning, Proceedings of Machine Learning Research, 234:39-53, 2024.\nWeng, J. and Yin, X. (2022), A minimum discrepancy approach with Fourier transform in sufficient dimension reduction, Statistic Sinica, 32(Online Special Issue II):2381–2403, 2022.\nWeng, J. (2022), Fourier transform sparse inverse regression estimators for sufficient variable selection, Computational Statistics and Data Analysis, 168(107380), 2022.\nPeecher, J.S., Schecter, A.J., Lu, H., Quynh, H.T., Stromberg, A., Weng, J., Crandall, R., Birnbaum, L.S. (2022), Biomonitoring of polybrominated dioxins & furans, polychlorinated dioxins & furans, and dioxin like polychlorinated biphenyls in Vietnamese female electronic waste recyclers, Journal of Occupational and Environmental Medicine, 64(9):742–747, 2022.\nGutierrez, A.M., Bhandari, R., Weng, J., Stromberg, A., Dziubla, T.D., and Hilt, J.Z. (2020), Synthesis of magnetic nanocomposite microparticles for binding of chlorinated organics in contaminated water sources, Journal of Applied Polymer Science, 137:e49109, 2020.\nJackson, E.N., Thatcher, S.E., Larian, N., English, V., Soman, S., Morris, A.J., Weng, J., Stromberg, A.J., Swanson, H.I., Pearson, K., Cassis, L.A. (2019), Effects of aryl hydrocarbon receptor deficiency on PCB-77-induced impairment of glucose homeostasis during weight loss in male and female obese mice, Environmental Health Perspectives, 127(7):077004, 2019.\nAhmad, I., Weng, J., Stromberg, A., Hilt, J.Z. and Dziubla T.D. (2019), Fluorescence based detection of polychlorinated biphenyls (PCBs) in water using hydrophobic interactions, Analyst, 144(2):677-684, 2019.\nGutierrez, A.M., Bhandari, R., Weng, J., Stromberg, A., Dziubla, T.D., and Hilt, J.Z. (2019), Novel magnetic core-shell nanoparticles for the removal of polychlorinated biphenyls from contaminated water sources, Materials Chemistry and Physics, 223:68-74, 2019.\nWeng, J. and Yin, X. (2018), Fourier transform approach for inverse dimension reduction method, Journal of Nonparametric Statistics, 30(4):1049-1071, 2018.\nWeng, J. and Young, D. (2017), Some dimension reduction strategies for the analysis of survey data, Journal of Big Data, 4(1):1-19, 2017."
+  }
+]
